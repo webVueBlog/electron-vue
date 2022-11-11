@@ -1,0 +1,4 @@
+build/*.js
+src/renderer/assets/**
+dist/**
+yarn.lock
